@@ -14,7 +14,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
-- 🔭 I’m studying as a Computer Siense student.
+- 🔭 I’m studying as a Computer Science student.
 - 🌱 Learning the development interface.
 - ⚡ My skills: HTML,CSS, Linux, JS(Java Script),soon, soon.
 - 📫 How to reach me: **aartemnazarchuk@gmail.com**
